@@ -16,3 +16,9 @@
     width: 100%;
     z-index: -1;
 }
+.hide-by-slide-right {
+    right: -185px!important;
+}
+.stick-to-right {
+    right: 0px!important;
+}
